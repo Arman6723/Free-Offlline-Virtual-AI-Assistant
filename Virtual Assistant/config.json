@@ -1,0 +1,7 @@
+{
+    "performance_mode": "Low",
+    "device_renderer": "NVIDIA GPU (CUDA)",
+    "image_quality": "High",
+    "max_chat_length": "Long",
+    "cuda_available": true
+}
